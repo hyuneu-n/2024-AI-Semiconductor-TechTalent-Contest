@@ -1,0 +1,46 @@
+[
+    {
+        "camera_id": 0,
+        "global_id": 1,
+        "bbox": [
+            455,
+            136,
+            555,
+            501
+        ],
+        "frame_path": "tracking_results/0000/0000000001.bmp"
+    },
+    {
+        "camera_id": 1,
+        "global_id": 1,
+        "bbox": [
+            469,
+            134,
+            567,
+            501
+        ],
+        "frame_path": "tracking_results/0001/0000000001.bmp"
+    },
+    {
+        "camera_id": 2,
+        "global_id": 1,
+        "bbox": [
+            457,
+            137,
+            554,
+            509
+        ],
+        "frame_path": "tracking_results/0002/0000000001.bmp"
+    },
+    {
+        "camera_id": 3,
+        "global_id": 1,
+        "bbox": [
+            468,
+            136,
+            567,
+            507
+        ],
+        "frame_path": "tracking_results/0003/0000000001.bmp"
+    }
+]
